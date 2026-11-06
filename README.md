@@ -24,3 +24,8 @@ Give me an executive summary.
 Installation:
 pip install -r requirements.txt
 streamlit run app.py
+
+Author
+Jair Samuel Guerrero Loor
+GitHub: https://github.com/jairguerrerol
+LinkedIn: https://www.linkedin.com/in/jair-guerrero-315666409
