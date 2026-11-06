@@ -1,0 +1,21 @@
+Date,Product,Category,Quantity,Price,Revenue
+2025-01-05,Laptop,Electronics,5,900,4500
+2025-01-08,Mouse,Electronics,20,25,500
+2025-01-12,Keyboard,Electronics,15,45,675
+2025-01-20,Monitor,Electronics,8,250,2000
+2025-02-03,Laptop,Electronics,4,900,3600
+2025-02-10,Office Chair,Furniture,10,150,1500
+2025-02-15,Desk,Furniture,6,300,1800
+2025-03-01,Mouse,Electronics,25,25,625
+2025-03-07,Keyboard,Electronics,18,45,810
+2025-03-15,Printer,Electronics,7,200,1400
+2025-04-02,Laptop,Electronics,6,900,5400
+2025-04-10,Desk,Furniture,4,300,1200
+2025-04-18,Monitor,Electronics,10,250,2500
+2025-05-05,Office Chair,Furniture,12,150,1800
+2025-05-11,Printer,Electronics,9,200,1800
+2025-05-20,Mouse,Electronics,30,25,750
+2025-06-03,Laptop,Electronics,7,900,6300
+2025-06-14,Keyboard,Electronics,20,45,900
+2025-06-21,Desk,Furniture,5,300,1500
+2025-06-28,Monitor,Electronics,12,250,3000
